@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;Pertemuan2/src/ac.ifunpas.praktikum.alpro.modul2.studikasus&apos;&#x0D;&#x0A;- Original project: &apos;Pertemuan2&apos;&#x0D;&#x0A;- Destination element: &apos;Pertemuan2/src/ac.ifunpas.praktikum.alpro.modul2.studikasus&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     ac.ifunpas.praktikum.alpro.modul2.latihan.PerpustakaanMain.java&#x0D;&#x0A;     ac.ifunpas.praktikum.alpro.modul2.latihan.Perpustakaan.java" description="Copy compilation units" destination="/src&lt;ac.ifunpas.praktikum.alpro.modul2.studikasus" element1="/src&lt;ac.ifunpas.praktikum.alpro.modul2.latihan{PerpustakaanMain.java" element2="/src&lt;ac.ifunpas.praktikum.alpro.modul2.latihan{Perpustakaan.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1606140299777" units="2" version="1.0"/>
+</session>

@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+D:\Kuliah\semester3\Algoritma & Pemrograman\Praktikum_Alpro\.metadata\.plugins\org.eclipse.jdt.core
+584389601.index
+3241378015.index
+1599542652.index
+3328066758.index
+2872044937.index
+3271193799.index
+676341226.index
+3056906313.index
